@@ -1,0 +1,68 @@
+@media screen and (max-width: 1280px);
+{}
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-image: url(image/mastehead.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+/*#mastehead{
+    height: 100vh;
+    width: 100vw;
+}*/
+
+.contenaireheader{
+    width: 150px;
+    display: flex;
+    align-items: flex-end;
+    color:white;
+    font-size: 14px;
+    
+}
+
+.deux{
+    background-color: teal;
+    height: 100vh;
+    width: 100vw;
+}
+.troie{
+    background-color: rgb(0, 81, 128);
+    height: 100vh;
+    width: 100vw;
+}
+.quatre{
+    background-color: rgb(9, 0, 128);
+    height: 100vh;
+    width: 100vw;
+}
+.ciq{
+    background-color: rgb(87, 0, 128);
+    height: 100vh;
+    width: 100vw;
+}
+.six{
+    background-color: rgb(98, 0, 128);
+    height: 100vh;
+    width: 100vw;
+}
+.sept{
+    background-color: rgb(124, 0, 128);
+    height: 100vh;
+    width: 100vw;
+}
+.huit{
+    background-color: rgb(128, 0, 70);
+    height: 100vh;
+    width: 100vw;
+}
+footer{
+    background-color: rgb(8, 3, 51);
+    height: 100vh;
+    width: 100vw;
+}
+
+
