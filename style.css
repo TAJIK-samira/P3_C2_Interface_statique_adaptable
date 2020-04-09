@@ -171,8 +171,9 @@ h4{
 }
 .six{
     background-color: #84c99d;
-    height: 70vh;
+    height: 80vh;
     width: 100vw;
+    margin:0;
 }
 .contenairelementsix{
     width: 80%;
@@ -183,15 +184,70 @@ h4{
     justify-content: center;
 }
 .contenairelementsix h3{
-    margin : 0;
+    padding-top:20px;
+    font-weight: 300;
 }
 .contenairelementsix p, h6{
     font-size: 10px;
 }
 .sept{
-    background-color: rgb(124, 0, 128);
+    /*background-color: rgb(124, 0, 128);*/
     height: 100vh;
     width: 100vw;
+}
+.contenairelementsept{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    column-gap: 5em;
+}
+.contenairelementsept p{
+    font-size: 10px;
+    color: grey;
+}
+.contenairelementsept h4{
+    font-weight: 300;
+}
+button{
+    /*background-color: hotpink;*/
+}
+.legacy{
+    width: 40px;
+    height: 20px;
+    background-color:grey;
+    color:white;
+    font-size: 5px;
+    border: none;
+    border-radius: 2px;
+}
+.buynow{
+    width: 40px;
+    height: 20px;
+    background-color: #84c99d;
+    color:white;
+    font-size: 5px;
+    border: none;
+    border-radius: 2px;
+}
+.mostpopular{
+    width: 40px;
+    height: 20px;
+    background-color: #b084c9;
+    color:white;
+    font-size: 5px;
+    border: none;
+    border-radius: 2px;
+}
+.buynow{
+    width: 40px;
+    height: 20px;
+    background-color: #84c99d;
+    color:white;
+    font-size: 5px;
+    border: none;
+    border-radius: 2px;
 }
 .huit{
     background-color: rgb(128, 0, 70);
