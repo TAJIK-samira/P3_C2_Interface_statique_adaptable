@@ -1,0 +1,23 @@
+@media only screen and (min-width: 600px){
+
+    .super-container-item-1 {
+        flex-direction: row;
+    }
+    .title-article {
+        width: 100%;
+    }
+    .super-container-item-1 p {
+        width: 48%;
+    }
+    .box {
+        width: 40%;
+    }
+    .menubox {
+        justify-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .box5{
+        width: 80%;
+    }
+   }
